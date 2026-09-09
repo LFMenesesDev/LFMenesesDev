@@ -53,8 +53,6 @@ Tecnologias: HTML e CSS
 - Validação básica de e-mail
 - Projeto publicado no GitHub Pages
 
-Demonstração: https://lfmenesesdev.github.io/Formulario-de-matricula/
-
 📚 Atualmente aprendendo
 
 Busco aprofundar meus conhecimentos em desenvolvimento Full Stack e explorar cada vez mais aplicações envolvendo Inteligência Artificial.
