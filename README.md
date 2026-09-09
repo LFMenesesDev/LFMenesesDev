@@ -41,6 +41,20 @@ Projeto de interface web inspirado em uma rede social de viagens.
 
 Tecnologias: HTML e CSS
 
+
+📝 Formulário de Matrícula
+
+Interface de matrícula para a escola infantil fictícia Estrelas do Amanhã.
+
+Tecnologias: HTML e CSS
+
+- Formulário dividido em seções
+- Campos e componentes personalizados
+- Validação básica de e-mail
+- Projeto publicado no GitHub Pages
+
+Demonstração: https://lfmenesesdev.github.io/Formulario-de-matricula/
+
 📚 Atualmente aprendendo
 
 Busco aprofundar meus conhecimentos em desenvolvimento Full Stack e explorar cada vez mais aplicações envolvendo Inteligência Artificial.
